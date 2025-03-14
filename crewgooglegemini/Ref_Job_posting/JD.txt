@@ -1,0 +1,60 @@
+At GEOLYTIX we seek new and innovative ways to make spatial analytics accessible, exciting and indispensable. Our customers span the retail, financial, property, leisure and food & beverage industries, across the world.
+
+We build innovative solutions to support our clients to make better decisions combining various forecasting methods and statistical models, GIS and web tools to create bespoke solutions. We are always looking to do things better.
+
+We have fun and value every member of our team.
+
+Are you our next Data Scientist?
+
+
+About You
+
+You’re already an experienced data scientist or modeller – your idea of a good day is receiving huge amounts of data and working out how customers are going to behave.
+You enjoy problem solving, and will be building gravity or machine learning models, for a variety of clients across wide ranging sectors.
+You want to be original – you don’t want to do the same old, same old. You’re consistently looking for innovation.
+Ideally you know your way around a GIS (not essential)
+You enjoy the world of retail, and have a good grasp of geography.
+You know enough about programming so that you’re quick and efficient, anything you don’t know you can quickly grasp.
+If you don’t have experience with really big data, you’ll be keen to learn how we process it at Geolytix.
+You care about your code. You know your way around git and how to productionise models you have built.
+You’re a ‘people person’ and build relationships with customers as you will lead projects on your own.
+
+Your qualifications and experience
+
+You are a pro at using SQL for data manipulation (at least one of PostgreSQL, MSSQL, Google BigQuery, SparkSQL)* Modelling & Statistical Analysis experience, ideally customer related
+
+Coding skills in at least one of Python, R, Scala, C, Java or JS
+
+Track record of using data manipulation and machine learning libraries in one or more programming languages.
+
+Keen interest in some of the following areas: Big Data Analytics (e.g. Google BigQuery / BigTable, Apache Spark), Parallel Computing (e.g. Apache Spark, Kubernetes, Databricks), Cloud Engineering (AWS, GCP, Azure), Spatial Query Optimisation, Data Storytelling with (Jupyter) Notebooks, Graph Computing, Microservices Architectures
+
+Modelling & Statistical Analysis experience, ideally customer related
+
+A university degree – numbers based, Computer Science or Geography
+
+Relevant industry sector knowledge ideal but not essential
+
+A strong communicator with the ability to work with colleagues remotely across the globe
+
+Be able to provide evidence of attention to detail, proactivity and managing deadlines
+
+
+Other stuff
+
+Our offices are in Leeds and Clerkenwell, London. The role can be located in either. Competitive salary. We’re a young and growing company who embrace flexible working; full time or part time, family friendly hours and/or working from home days considered
+
+Benefits
+
+Flexible working
+City Centre office location
+Vitality Health membership
+Great maternity and paternity schemes
+Cycle to work scheme
+Tusker Car Purchase scheme
+Bonus scheme
+Opportunity for all employees to become a shareholder on our long term incentive plan
+Interested? If you are interested in this role and are looking for your next challenge, please send your CV and cover letter to careers@geolytix.co.uk.
+
+No agencies please.
+
